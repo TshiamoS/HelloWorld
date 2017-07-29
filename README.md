@@ -1,2 +1,1 @@
-# HelloWorld
-Testing Git
+This is Tshiamo testing github.
